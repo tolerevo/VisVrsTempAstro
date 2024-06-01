@@ -16,7 +16,7 @@
 		"@astrojs/tailwind": "^5.1.0",
 		"@iconify-json/flat-color-icons": "^1.1.10",
 		"@iconify-json/tabler": "^1.1.110",
-		"@tailwindcss/typography": "^0.5.12",
+		"@tailwindcss/typography": "^0.5.13",
 		"astro": "^4.7.0",
 		"astro-icon": "^1.1.0",
 		"astro-pagefind": "^1.5.0",
